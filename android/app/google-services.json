@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991443058758",
+    "project_id": "justshayar-f8097",
+    "storage_bucket": "justshayar-f8097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991443058758:android:228dbbe83b50633f7a8a47",
+        "android_client_info": {
+          "package_name": "com.justshayar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991443058758-3org2ctpsef6sv3rfjutpjs0d06fdg44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTWFk20WCW9b5NG0vPWIOzMUa-jqBR_T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991443058758-3org2ctpsef6sv3rfjutpjs0d06fdg44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
